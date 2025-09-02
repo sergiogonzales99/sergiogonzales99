@@ -1,4 +1,4 @@
-## Olá! Eu sou o Sérgio Gonzales 
+## Olá! Eu sou Sérgio Gonzales 
  <div>
   <a href="https://github.com/sergiogonzales99">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sergiogonzales99&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
